@@ -1,0 +1,40 @@
+body{
+    font-family: 'segoe UI','Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    width: 90%;
+    margin: auto;
+    padding: 10px;
+    background-color:lightcyan;
+    line-height: 2rem;
+}
+
+h2{
+    text-align: center;
+    color: rgb(10, 222, 42);
+}
+h4{
+    text-align: center;
+    color: darkred;
+    font-size: 2em;
+    
+}
+img.tour{
+    width: 30vw;
+    padding: 20px 20px;
+    border: thin groove lightgreen;
+    float: left;
+    margin-right: 20px;
+    min-width: 300px;
+
+}
+div.country{
+    clear: both;
+    margin-top : 6rem ;
+   
+
+}
+
+#p1{
+    
+    color:rgb(10, 222, 42);
+    
+}

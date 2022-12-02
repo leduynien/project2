@@ -1,0 +1,82 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: "roboto",sans-serif;
+}
+
+
+
+header img{
+    padding-left: 30px;
+}
+nav{
+    height:35px;
+    background: orange;
+    margin-bottom: 5px;
+
+}
+nav .menu ul{
+    list-style: none;
+}
+nav .menu ul li{
+    float: left;
+    line-height: 35px;
+    padding: 0 15px;     
+}
+nav .menu ul li a{
+    color: azure;
+    font-size: 20px;
+    text-decoration: none;
+}
+nav .search{
+    line-height: 35px;
+    float: right;
+    margin-right: 15px;
+}
+article h3{
+    text-align: center;
+    padding: 15px 0;
+    color: blue;
+    font-size: 20px;
+    text-transform: uppercase  ;
+    font-weight: bold;
+}
+.btn{
+    color: red;
+    font-size: 13px;
+  text-transform: uppercase;
+  letter-spacing: .2em;
+  border: 5px solid rgba(240, 8, 240, 0.938);
+  border-radius: 5px;  
+  border-width: 2px; 
+  background-color: antiquewhite;
+  margin-left: 35%;
+  
+
+} 
+     
+    
+    
+article .new_list .new_item{
+    width: 28%;
+    padding: 12px;
+    float: left;
+    border: 1px solid plum;
+    margin-right: 4%;
+}
+article .new_list .new_item h4{
+    font-size: 16px;
+    color: red;
+    text-align: center;
+}
+article .new_list .new_item img{
+    margin: 10px auto;
+}
+article .new_list .new_item .content{
+    font-size: 13px;
+}
+
+
+#fix{
+    margin-right: 0;
+}

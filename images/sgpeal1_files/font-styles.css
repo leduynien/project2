@@ -1,0 +1,215 @@
+@charset "UTF-8";
+
+@font-face {
+	font-family: "Objective";
+	src: url("../fonts/objective-regular-webfont.woff2") format("woff2"),
+		url("../fonts/objective-regular-webfont.woff") format("woff");
+	font-weight: 400;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "Objective";
+	src: url("../fonts/objective-bold-webfont.woff2") format("woff2"),
+		url("../fonts/objective-bold-webfont.woff") format("woff");
+	font-weight: 700;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "Objective";
+	src: url("../fonts/objective-light-webfont.woff2") format("woff2"),
+		url("../fonts/objective-light-webfont.woff") format("woff");
+	font-weight: 300;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "HelveticaNeue";
+	src: url("../fonts/HelveticaNeue.otf") format("opentype"),
+		url("../fonts/HelveticaNeue.ttf") format("truetype");
+	font-weight: 400;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "HelveticaNeue";
+	src: url("../fonts/HelveticaNeue-CondensedBold.otf") format("opentype"),
+		url("../fonts/HelveticaNeue-CondensedBold.ttf") format("truetype");
+	font-weight: 700;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "MrEaves";
+	src: url("../fonts/MrEavesXLModOT-Reg.otf") format("opentype"),
+		url("../fonts/MrEavesXLModOT-Reg.ttf") format("truetype");
+	font-weight: 400;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "MrEaves";
+	src: url("../fonts/MrEavesXLModOT-Bold.otf") format("opentype"),
+		url("../fonts/MrEavesXLModOT-Bold.ttf") format("truetype");
+	font-weight: 700;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "Verveine";
+	src: url("../fonts/VerveineRegular.otf") format("opentype"),
+		url("../fonts/VerveineRegular.ttf") format("truetype");
+	font-weight: 400;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "Assistant";
+	src: url("../fonts/Assistant-Regular.ttf") format("truetype");
+	font-weight: 400;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "Assistant";
+	src: url("../fonts/Assistant-Bold.ttf") format("truetype");
+	font-weight: 700;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "Assistant";
+	src: url("../fonts/Assistant-ExtraBold.ttf") format("truetype");
+	font-weight: 800;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "Biennale";
+	src: url("../fonts/Biennale Black.otf") format("opentype"),
+		url("../fonts/Biennale-Black.ttf") format("truetype");
+	font-weight: 900;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "Biennale";
+	src: url("../fonts/Biennale Light.otf") format("opentype"),
+		url("../fonts/Biennale-Light.ttf") format("truetype");
+	font-weight: 400;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "Century Gothic";
+	src: url("../fonts/GOTHICB.TTF") format("truetype");
+	font-weight: 700;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "Century Gothic";
+	src: url("../fonts/GOTHIC.TTF") format("truetype");
+	font-weight: 400;
+	font-style: normal;
+}
+@font-face {
+	font-family: "Avenir";
+	src: url("../fonts/Avenir-Black-03.ttf") format("truetype");
+	font-weight: 800;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "Avenir";
+	src: url("../fonts/Avenir-Medium-09.ttf") format("truetype");
+	font-weight: 500;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "Times Europa";
+	src: url("../fonts/Times Europa Office Bold.ttf") format("truetype");
+	font-weight: 700;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "Helvetica-Light";
+	src: url("../fonts/HelveticaLt.otf") format("opentype"),
+		url("../fonts/HelveticaLt.ttf") format("truetype");
+	font-weight: 300;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "Georgia";
+	src: url("../fonts/Georgia.ttf") format("truetype");
+	font-weight: 400;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "Century Gothic";
+	src: url("../fonts/GOTHIC.TTF") format("truetype");
+	font-weight: 400;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "Century Gothic";
+	src: url("../fonts/GOTHICB.TTF") format("truetype");
+	font-weight: 700;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "HelveticaNeueS";
+	src: url("../fonts/HelveticaNeueS-Bold.otf") format("opentype"),
+		url("../fonts/HelveticaNeueS-Bold.ttf") format("truetype");
+	font-weight: 700;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "HelveticaNeueS";
+	src: url("../fonts/helveticaneueSlight.ttf") format("truetype");
+	font-weight: 300;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "BELLABOO-Regular";
+	src: url("../fonts/BELLABOO-Regular.otf") format("opentype"),
+		url("../fonts/BELLABOO-Regular.ttf") format("truetype");
+	font-weight: 700;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "FFMetaPro";
+	src: url("../fonts/FFMetaProRegular.TTF") format("truetype");
+	font-weight: 300;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "FFMetaPro";
+	src: url("../fonts/FFMetaProBold.TTF") format("truetype");
+	font-weight: 700;
+	font-style: normal;
+}
+@font-face {
+	font-family: "AvenirNext";
+	src: url("../fonts/AvenirNext-Regular-08.ttf") format("truetype");
+	font-weight: 400;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "AvenirNext";
+	src: url("../fonts/AvenirNext-Bold-01.ttf") format("truetype");
+	font-weight: 700;
+	font-style: normal;
+}
