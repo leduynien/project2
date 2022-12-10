@@ -2,12 +2,25 @@
     padding: 0;
     margin: 0;
     font-family: "roboto",sans-serif;
+    
 }
 
+body{
+    background-color: lightcyan;
+}
 
 
 header img{
     padding-left: 30px;
+}
+.title_text {
+    text-align: center;
+ 
+    font-weight: bolder;
+    margin-top: 40px;
+    margin-bottom: 35px;
+    color: #3f08a4;
+    font-style: oblique;
 }
 nav{
     height:35px;
@@ -36,10 +49,11 @@ nav .search{
 article h3{
     text-align: center;
     padding: 15px 0;
-    color: blue;
+    color: rgb(22, 222, 49);
     font-size: 20px;
     text-transform: uppercase  ;
     font-weight: bold;
+ 
 }
 .btn{
     color: red;
