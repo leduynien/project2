@@ -1,6 +1,4 @@
 # project2
-our website posted at https://leduynien.github.io/project2/
-   projectchair
 eProject1 T1.2208.A0 - eProject - Group 8 Batch no.: T1.2208.A0
 
 CENTER NAME: ACE-HCMC-2-FPT
